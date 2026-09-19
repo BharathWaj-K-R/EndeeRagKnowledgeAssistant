@@ -1,0 +1,16 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+streamlit==1.39.0
+langchain==0.3.4
+langchain-openai==0.2.3
+langchain-chroma==0.1.4
+langchain-community==0.3.3
+langchain-text-splitters==0.3.0
+chromadb==0.5.15
+sentence-transformers==3.2.0
+pypdf==5.0.1
+python-dotenv==1.0.1
+requests==2.32.3
+pydantic==2.9.2
+pydantic-settings==2.5.2
